@@ -27,3 +27,8 @@ UserSettings/
 **/[Ll]ightingData.asset
 **/[Ll]ightmap*
 **/OcclusionCullingData.asset
+
+# Unity lighting/occlusion (large auto-generated)
+**/[Ll]ightingData.asset
+**/[Ll]ightmap*
+**/OcclusionCullingData.asset
