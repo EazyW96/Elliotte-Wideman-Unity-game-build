@@ -32,3 +32,20 @@ UserSettings/
 **/[Ll]ightingData.asset
 **/[Ll]ightmap*
 **/OcclusionCullingData.asset
+
+# --- Unity heavy generated content (ignore) ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+UserSettings/
+**/Bee/
+**/BurstCache/
+**/Artifacts/
+**/[Ll]ightingData.asset
+**/[Ll]ightmap*
+**/OcclusionCullingData.asset
+[Mm]emoryCaptures/
+[Cc]rashReports/
+[Ss]ysinfo/
