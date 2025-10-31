@@ -23,3 +23,7 @@ UserSettings/
 
 # Misc
 *.pid
+# Unity lighting/occlusion (re-bake locally)
+**/[Ll]ightingData.asset
+**/[Ll]ightmap*
+**/OcclusionCullingData.asset
